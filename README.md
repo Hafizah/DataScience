@@ -17,19 +17,19 @@ completion time – arrival time and one point is equal to five minutes.
 
 The Ask: 
 Provide a Tableau dashboard including the following:
-/n A line graph of the total number of work orders by week
-/n A histogram of the Time on Job of all work orders measured in points. What is
+A line graph of the total number of work orders by week
+A histogram of the Time on Job of all work orders measured in points. What is
 average time on job?
-o Identify the technicians that utilized the maintenance code when completing
+Identify the technicians that utilized the maintenance code when completing
 the work order but did not create an escalation ticket. Summarize the top 10
 technicians with the most missing escalation tickets
-o Provide any additional visuals or statistics based on the data
- Create a brief summary document including:
-o A written description of the methodology you used in order to complete the
+Provide any additional visuals or statistics based on the data
+Create a brief summary document including:
+A written description of the methodology you used in order to complete the
 analysis
-o A description of your findings. The section should include your tables, charts,
+A description of your findings. The section should include your tables, charts,
 and any additional summary statistics.
-o Recommendations: Please provide a summary of your recommendations. For
+Recommendations: Please provide a summary of your recommendations. For
 example, how would you improve the tech escalation process in order to ensure
 compliance? How would you encourage technicians to adhere to your new
 process? What would you recommend that the client do in order to address the
